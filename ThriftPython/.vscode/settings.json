@@ -1,0 +1,15 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/lap14784/Downloads/jar_files/commons-codec-1.11.jar",
+        "/home/lap14784/Downloads/jar_files/commons-logging-1.2.jar",
+        "/home/lap14784/Downloads/jar_files/httpclient-4.5.10.jar",
+        "/home/lap14784/Downloads/jar_files/httpcore-4.4.12.jar",
+        "/home/lap14784/Downloads/jar_files/javax.annotation-api-1.3.2.jar",
+        "/home/lap14784/Downloads/jar_files/libthrift-0.15.0.jar",
+        "/home/lap14784/Downloads/jar_files/slf4j-api-1.7.28.jar"
+    ],
+    "files.associations": {
+        "type_traits": "cpp"
+    }
+}

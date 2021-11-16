@@ -1,0 +1,16 @@
+apply plugin: 'java'
+apply plugin: 'jacoco'
+apply plugin: 'application'
+
+
+mainClassName = 'ThiftTraining.Main'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation     'junit:junit:4.13'
+    implementation("org.apache.thrift:libthrift:0.15.0")
+    implementation 'org.slf4j:slf4j-simple:1.7.30'
+}
